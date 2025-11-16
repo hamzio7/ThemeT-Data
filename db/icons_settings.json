@@ -32,7 +32,7 @@
         "ic_settings_dualsim.png"
       ],
       "extraPaths": [
-        "com.huawei.android.dsdscardmanager/res/drawable/"
+        "com.hihonor.android.dsdscardmanager/res/drawable/"
       ]
     },
     "ic_devices.png": {
@@ -44,7 +44,7 @@
         "ic_super_device.png"
       ],
       "extraPaths": [
-        "com.huawei.controlcenter/res/drawable/"
+        "com.hihonor.controlcenter/res/drawable/"
       ]
     },
     "ic_vpn.png": {
@@ -73,15 +73,15 @@
         "ic_launcher_round.webp"
       ],
       "extraPaths": [
-        "com.huawei.vassistant/res/drawable/",
-        "com.huawei.hiassistantoversea/res/drawable-xxhdpi/",
-        "com.huawei.hiassistant/res/drawable-xxhdpi/",
-        "com.huawei.assistant/res/drawable-xxhdpi/",
-        "com.huawei.assistant/res/drawable-night-xxhdpi/",
-        "com.huawei.assistant/res/drawable/",
-        "com.huawei.assistant/res/drawable-night/",
-        "com.huawei.aipluginengine/res/drawable-night/",
-        "com.huawei.aipluginengine/res/drawable/"
+        "com.hihonor.vassistant/res/drawable/",
+        "com.hihonor.hiassistantoversea/res/drawable-xxhdpi/",
+        "com.hihonor.hiassistant/res/drawable-xxhdpi/",
+        "com.hihonor.assistant/res/drawable-xxhdpi/",
+        "com.hihonor.assistant/res/drawable-night-xxhdpi/",
+        "com.hihonor.assistant/res/drawable/",
+        "com.hihonor.assistant/res/drawable-night/",
+        "com.hihonor.aipluginengine/res/drawable-night/",
+        "com.hihonor.aipluginengine/res/drawable/"
       ]
     },
     "ic_fold.png": {
@@ -103,10 +103,10 @@
         "ic_settings_digitaled_balance.png"
       ],
       "extraPaths": [
-        "com.huawei.parentcontrol/res/drawable/",
-        "com.huawei.parentcontrol/res/drawable-night/",
-        "com.huawei.parentcontrol/res/drawable-xxhdpi/",
-        "com.huawei.parentcontrol/res/drawable-night-xxhdpi/"
+        "com.hihonor.parentcontrol/res/drawable/",
+        "com.hihonor.parentcontrol/res/drawable-night/",
+        "com.hihonor.parentcontrol/res/drawable-xxhdpi/",
+        "com.hihonor.parentcontrol/res/drawable-night-xxhdpi/"
       ]
     },
     "ic_battery.png": {
@@ -117,10 +117,10 @@
         "ic_settings_battery_manager.png"
       ],
       "extraPaths": [
-        "com.huawei.systemmanager/res/drawable/",
-        "com.huawei.systemmanager/res/drawable-night/",
-        "com.huawei.systemmanager/res/drawable-night-xxhdpi/",
-        "com.huawei.systemmanager/res/drawable-xxhdpi/"
+        "com.hihonor.systemmanager/res/drawable/",
+        "com.hihonor.systemmanager/res/drawable-night/",
+        "com.hihonor.systemmanager/res/drawable-night-xxhdpi/",
+        "com.hihonor.systemmanager/res/drawable-xxhdpi/"
       ]
     },
     "ic_homepage.png": {
@@ -212,10 +212,10 @@
         "colorful_led_icon.png"
       ],
       "extraPaths": [
-        "com.huawei.systemmanager/res/drawable/",
-        "com.huawei.systemmanager/res/drawable-night/",
-        "com.huawei.systemmanager/res/drawable-night-xxhdpi/",
-        "com.huawei.systemmanager/res/drawable-xxhdpi/"
+        "com.hihonor.systemmanager/res/drawable/",
+        "com.hihonor.systemmanager/res/drawable-night/",
+        "com.hihonor.systemmanager/res/drawable-night-xxhdpi/",
+        "com.hihonor.systemmanager/res/drawable-xxhdpi/"
       ]
     },
     "ic_updates.png": {
@@ -230,7 +230,7 @@
         "ic_updater_settings.png"
       ],
       "extraPaths": [
-        "com.huawei.android.hwouc/res/drawable/"
+        "com.hihonor.android.hwouc/res/drawable/"
       ]
     },
     "ic_privacy.png": {
@@ -241,10 +241,10 @@
         "ic_privacy_settings.png"
       ],
       "extraPaths": [
-        "com.huawei.systemmanager/res/drawable/",
-        "com.huawei.systemmanager/res/drawable-night/",
-        "com.huawei.systemmanager/res/drawable-night-xxhdpi/",
-        "com.huawei.systemmanager/res/drawable-xxhdpi/"
+        "com.hihonor.systemmanager/res/drawable/",
+        "com.hihonor.systemmanager/res/drawable-night/",
+        "com.hihonor.systemmanager/res/drawable-night-xxhdpi/",
+        "com.hihonor.systemmanager/res/drawable-xxhdpi/"
       ]
     },
     "ic_security.png": {
@@ -256,10 +256,10 @@
         "ic_unlock_set_settings.png"
       ],
       "extraPaths": [
-        "com.huawei.systemmanager/res/drawable/",
-        "com.huawei.systemmanager/res/drawable-night/",
-        "com.huawei.systemmanager/res/drawable-night-xxhdpi/",
-        "com.huawei.systemmanager/res/drawable-xxhdpi/"
+        "com.hihonor.systemmanager/res/drawable/",
+        "com.hihonor.systemmanager/res/drawable-night/",
+        "com.hihonor.systemmanager/res/drawable-night-xxhdpi/",
+        "com.hihonor.systemmanager/res/drawable-xxhdpi/"
       ]
     },
     "ic_sound.png": {
@@ -269,10 +269,10 @@
         "ic_settings_sound.png"
       ],
       "extraPaths": [
-        "com.huawei.systemmanager/res/drawable/",
-        "com.huawei.systemmanager/res/drawable-night/",
-        "com.huawei.systemmanager/res/drawable-night-xxhdpi/",
-        "com.huawei.systemmanager/res/drawable-xxhdpi/"
+        "com.hihonor.systemmanager/res/drawable/",
+        "com.hihonor.systemmanager/res/drawable-night/",
+        "com.hihonor.systemmanager/res/drawable-night-xxhdpi/",
+        "com.hihonor.systemmanager/res/drawable-xxhdpi/"
       ]
     },
     "ic_storage.png": {
@@ -283,10 +283,10 @@
         "ic_storage_settings.png"
       ],
       "extraPaths": [
-        "com.huawei.systemmanager/res/drawable/",
-        "com.huawei.systemmanager/res/drawable-night/",
-        "com.huawei.systemmanager/res/drawable-night-xxhdpi/",
-        "com.huawei.systemmanager/res/drawable-xxhdpi/"
+        "com.hihonor.systemmanager/res/drawable/",
+        "com.hihonor.systemmanager/res/drawable-night/",
+        "com.hihonor.systemmanager/res/drawable-night-xxhdpi/",
+        "com.hihonor.systemmanager/res/drawable-xxhdpi/"
       ]
     },
     "ic_emergency.png": {
@@ -295,10 +295,10 @@
         "ic_settings_safety_emergency.png"
       ],
       "extraPaths": [
-        "com.huawei.systemmanager/res/drawable/",
-        "com.huawei.systemmanager/res/drawable-night/",
-        "com.huawei.systemmanager/res/drawable-night-xxhdpi/",
-        "com.huawei.systemmanager/res/drawable-xxhdpi/"
+        "com.hihonor.systemmanager/res/drawable/",
+        "com.hihonor.systemmanager/res/drawable-night/",
+        "com.hihonor.systemmanager/res/drawable-night-xxhdpi/",
+        "com.hihonor.systemmanager/res/drawable-xxhdpi/"
       ]
     },
     "ic_more.png": {
@@ -333,15 +333,15 @@
         "ai_button_icon.png"
       ],
       "extraPaths": [
-        "com.huawei.vassistant/res/drawable/",
-        "com.huawei.hiassistantoversea/res/drawable-xxhdpi/",
-        "com.huawei.hiassistant/res/drawable-xxhdpi/",
-        "com.huawei.assistant/res/drawable-xxhdpi/",
-        "com.huawei.assistant/res/drawable-night-xxhdpi/",
-        "com.huawei.assistant/res/drawable/",
-        "com.huawei.assistant/res/drawable-night/",
-        "com.huawei.aipluginengine/res/drawable-night/",
-        "com.huawei.aipluginengine/res/drawable/"
+        "com.hihonor.vassistant/res/drawable/",
+        "com.hihonor.hiassistantoversea/res/drawable-xxhdpi/",
+        "com.hihonor.hiassistant/res/drawable-xxhdpi/",
+        "com.hihonor.assistant/res/drawable-xxhdpi/",
+        "com.hihonor.assistant/res/drawable-night-xxhdpi/",
+        "com.hihonor.assistant/res/drawable/",
+        "com.hihonor.assistant/res/drawable-night/",
+        "com.hihonor.aipluginengine/res/drawable-night/",
+        "com.hihonor.aipluginengine/res/drawable/"
       ]
     }
   }
