@@ -5,6 +5,12 @@
       "file": "fallback",
       "isPro": false,
       "isEditable": true
+    },
+    {
+      "display_name": "Magic OS 9.0",
+      "file": "fallback",
+      "isPro": false,
+      "isEditable": true
     }
   ]
 }
