@@ -12,5 +12,11 @@
       "isPro": false,
       "isEditable": true
     }
+    {
+      "display_name": "iOS",
+      "file": "ios",
+      "isPro": false,
+      "isEditable": true
+    }
   ]
 }
