@@ -11,7 +11,7 @@
       "color": 1,
       "files": [
         "ic_wifi_settings.png",
-        "ic_settings_wifi"
+        "ic_settings_wifi.png"
       ],
       "extraPaths": []
     },
@@ -42,7 +42,7 @@
       "name": "HONOR Connect",
       "color": 1,
       "files": [
-        "ic_launcher_collaboration",
+        "ic_launcher_collaboration.png",
         "ic_homepage_super_device.png",
         "ic_settings_device.png",
         "ic_super_device.png"
