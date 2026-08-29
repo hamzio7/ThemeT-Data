@@ -75,7 +75,12 @@
       "name": "HONOR AI",
       "color": 1,
       "files": [
+        "ic_ai.webp",
+        "ic_ai_new.webp",
+        "ic_ai_new.png",
         "ic_launcher_round.png",
+        "smart_ai_new.png",
+        "smart_ai_new.webp",
         "setting_honor.webp",
         "ic_launcher_round.webp"
       ],
